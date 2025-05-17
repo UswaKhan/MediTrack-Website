@@ -1,0 +1,32 @@
+[15-May-2025 17:09:20 Europe/Berlin] Logout: Session status: 2, Session ID: qrfivaniimc953ao0b93f46pkm
+[15-May-2025 17:09:20 Europe/Berlin] Logout: Session data before clear: Array
+(
+    [last_regeneration] => 1747321058
+    [fingerprint] => caeedce1bdbc0655f754bcfd1b38dc0e0beabbc699a3113915fc624df2f4f4cd
+    [csrf_token] => 471e13e9529a6fe0863aa0f60c044943ae667db17385900b8f5dcf53c602adc0
+    [admin] => Cashier1
+    [role] => cashier
+    [brute_force_error] => Too many failed login attempts. Please try again in 15 minutes.
+    [lockout_start] => 1747320868
+)
+
+[15-May-2025 17:09:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method SessionManager::clear() in C:\xampp\htdocs\IS\logout.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\IS\logout.php on line 21
+[15-May-2025 17:09:22 Europe/Berlin] Logout: Session status: 2, Session ID: qrfivaniimc953ao0b93f46pkm
+[15-May-2025 17:09:22 Europe/Berlin] Logout: Session data before clear: Array
+(
+    [last_regeneration] => 1747321058
+    [fingerprint] => caeedce1bdbc0655f754bcfd1b38dc0e0beabbc699a3113915fc624df2f4f4cd
+    [csrf_token] => 471e13e9529a6fe0863aa0f60c044943ae667db17385900b8f5dcf53c602adc0
+    [admin] => Cashier1
+    [role] => cashier
+    [brute_force_error] => Too many failed login attempts. Please try again in 15 minutes.
+    [lockout_start] => 1747320868
+)
+
+[15-May-2025 17:09:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method SessionManager::clear() in C:\xampp\htdocs\IS\logout.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\IS\logout.php on line 21
