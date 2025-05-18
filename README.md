@@ -64,13 +64,7 @@ A web-based Medicine Inventory Management System built with PHP, MySQL, HTML/CSS
 - ✅ Session Hijacking resistance using secure PHP sessions
 - ✅ Role-based Access Control
 - ✅ Passwords stored using `bcrypt` hashing
-
----
-
-## License
-
-This project is open-source and free to use for educational or commercial purposes under the [MIT License](https://opensource.org/licenses/MIT).
-
+- 
 ---
 
 ## Credits
